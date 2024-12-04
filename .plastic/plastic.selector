@@ -1,0 +1,4 @@
+repository "fps_game_bu_fame@gosogazye@cloud"
+  path "/"
+    br "/main"
+    co "/main"
