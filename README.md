@@ -1,8 +1,26 @@
-# multiplayer_fps_game
-thằng nào ăn cắp nhận lấy 1 gậy của lão tôn
-nch là cái này dùng photon server của trẫm có vid demo trên du tu be với itch.io r nma trẫm lười làm thêm voice chat và basic chat quá 
+:v 1 con game fps dùng photon mọi người có thể chơi game demo ở link sau
 
-design pattern thì dùng mỗi singleton tại lười và đang có định hướng qua thiết kế game nên trẫm đagn design 1 con game thời trung cổ mong các đấng xem thì meh 
+https://gianglinhnguyen.itch.io/a-basic-game
 
-note thêm: 
-đang làm 1 rpg và 1 sliding puzzle
+link demo game sẽ update sau
+
+game đơn giản có chức năng tạo phòng(UI xấu nếu có thời gian sẽ cải thiện sau), xem list thành viên đang có trong phòng( ấn tab), xin lỗi vì game ko có sound :> tại vì lười làm
+
+  +bắn súng dùng chuột phải
+
+  +nạp đạn dùng phím r
+
+  +di chuyển wasd
+
+*Tính năng sẽ có trong tương lai
+
+  +sẽ bổ sung thêm ném nade và smoke 
+
+  +voice chat và text chat
+
+  +dùng model nhân vật thay vì capsule ehe
+ăn cắp asset map trên sketchfab
+
+đang học để tự tạo map và UI :> ehe
+
+
